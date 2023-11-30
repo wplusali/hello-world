@@ -4,7 +4,7 @@ Time to put these new skills to the test! In this activity, you'll create a new 
 
 ## Instructions
 
-  1. Create a new HTML document called `HelloWorld.html`.  
+  1. Create a new HTML document called `index.html`.  
    
   2. Give your HTML page the title "Hello World." 
    
